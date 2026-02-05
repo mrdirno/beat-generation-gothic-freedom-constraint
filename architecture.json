@@ -1,0 +1,169 @@
+{
+  "book_id": "beat_generation_gothic_freedom_constraint",
+  "title": "Séjourne: A Requiem in the Key of Ash",
+  "tagline": "In a city of lost causes, a writer chases a melody that could unravel reality itself.",
+  "target_words": 70000,
+  "actual_words": 69538,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Cage of Memory",
+    "Art as Exorcism",
+    "The Gothic South as a Living Character",
+    "Freedom Through Surrender to Obsession"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Milk and the Cathedral Eyes",
+      "words": 2897
+    },
+    {
+      "ch": 2,
+      "title": "The Song at Séjourne",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Patron of Lost Causes",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "Alma's Archive of Echoes",
+      "words": 2900
+    },
+    {
+      "ch": 5,
+      "title": "The Boy Who Remembers Tomorrow",
+      "words": 2900
+    },
+    {
+      "ch": 6,
+      "title": "The Typewriter and the Tonic",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "A Chorus of Ghosts on Rampart",
+      "words": 2900
+    },
+    {
+      "ch": 8,
+      "title": "The Contract in Rainwater",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "First Rule: Don't Name the Saints",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "The Second Pulse",
+      "words": 2900
+    },
+    {
+      "ch": 11,
+      "title": "Baptism by Whiskey and Wire",
+      "words": 2900
+    },
+    {
+      "ch": 12,
+      "title": "The Editor's Empty Chair",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "How to Forget a Melody",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "The Angel's Missing Face",
+      "words": 2900
+    },
+    {
+      "ch": 15,
+      "title": "A Séance in Broad Daylight",
+      "words": 2900
+    },
+    {
+      "ch": 16,
+      "title": "Cassady's Confession, Page One",
+      "words": 2900
+    },
+    {
+      "ch": 17,
+      "title": "The Hurricane's True Name",
+      "words": 2900
+    },
+    {
+      "ch": 18,
+      "title": "The Gutter's Honest Truth",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "Writing the World Anew",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "The Cost of a Clean Slate",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "Alma's Final Ledger",
+      "words": 2900
+    },
+    {
+      "ch": 22,
+      "title": "Saint Jude Makes Landfall",
+      "words": 2900
+    },
+    {
+      "ch": 23,
+      "title": "The Last Note",
+      "words": 2900
+    },
+    {
+      "ch": 24,
+      "title": "What the Rain Washes Away",
+      "words": 2941
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a 'found document' from Alma's archive: a grocery list, a diary entry, or a faded photograph with a cryptic caption that hints at a forgotten history of Séjourne.",
+      "Create a character who is a 'living record'—a busker on Royal Street whose songs accidentally reveal other people's memories, or a bartender who serves 'tonics' that induce specific, curated forgetfulness.",
+      "Draft a scene where a minor character from the novel (Mr. Leoni, the editor, the toppled angel) encounters a 'beat'—a moment of raw, arrhythmic truth—and describe how it changes them.",
+      "Imagine a 'prequel' vignette showing the fire at the jazz club on Rampart, told from the perspective of the saxophone that survived, its brass still warm with the last note played."
+    ],
+    "technical": [
+      "Build a 'Gothic Atmosphere Generator' that combines sensory details (smell of ozone & old books, sound of a broken bell, texture of peeling paint) with Southern Gothic archetypes to create instant setting prompts.",
+      "Develop a 'Constrained Writing' web tool where users must write a 500-word story using only words from the novel's first chapter, exploring how limitation breeds creative freedom."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "William S. Burroughs (cut-up technique, paranoid systems)",
+      [
+        "Flannery O'Connor",
+        "Southern Gothic moral landscapes"
+      ],
+      [
+        "Anne Rice",
+        "Gothic personification of place and memory"
+      ],
+      [
+        "Jack Kerouac",
+        "spontaneous prose seeking the 'beat' of authentic experience"
+      ]
+    ]
+  },
+  "cover_prompt": "A lone writer, hunched over a typewriter in a rain-lashed garret, his fingers bleeding onto the keys as spectral musical notes swirl from the machine, [in a decaying, gaslit New Orleans courtyard apartment choked with ivy and forgotten manuscripts, where the architecture itself seems to weep and the air vibrates with a silent, haunting melody], in the atmospheric style of Dave McKean's photomontage mixed-media and Ashley Wood's expressive, ink-splattered despair, [book cover framing, extreme close-up on the bleeding hands and escaping notes with the writer's tormented face in shallow focus behind, Dutch angle to enhance disorientation], [dramatic chiaroscuro lighting with a single, sickly gaslamp casting long, grasping shadows, color palette of bruised purples, arterial crimson, and the ashen grey of burnt paper and forgotten ghosts], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
