@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The rain in New Orleans wasn’t water. It was a lukewarm baptism of sweat from the sky, smelling of diesel and jasmine and the slow, sweet rot of everything. It fell not in drops but in sheets, a gauzy curtain that turned the streetlights into smeared halos and the pavement into a black mirror. I stood under the rusted tin awning of the Blue Nite Grocery, watching it come down, feeling the city breathe its wet, heavy breath on my neck. My notebook was a damp lump in the pocket of my trench coat, the words inside probably bleeding into one another, a Rorschach test of my own bad intentions.
@@ -81,6 +83,8 @@ My fingers found the keys.
 *I need to know what’s hungry.*
 
 I pulled the page from the typewriter. It wasn’t for the *Picayune*. It might not be for anyone. But it was a start. A first step into the gutter, following a trail of spilled milk.
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -207,6 +211,8 @@ Back in my room, the typewriter waited. I didn’t write about Elie or Alma. I w
 *I am a crow. I am in the gutter. And I have seen something shiny. I can’t unsee it.*
 
 I pulled the page out. Through my open window, I could hear the distant wail of a riverboat horn, a low, mournful sound that seemed to slide over the rooftops and into the darkening sky. It sounded like an answer, in a language I didn’t yet understand.
+
+# Chapter 3
 
 ## **Chapter 3**
 
